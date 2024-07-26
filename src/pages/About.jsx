@@ -19,9 +19,15 @@ const About = () => {
             </h1>
             <div className="mt-5 flex flex-col gap-3 text-slate-500">
                 <p>
-                    Software Engineer based in Ukraine, specializing in
-                    technical education through hands-on learning and building
-                    applications.
+                    Software Engineer based in Ukraine, motivated and
+                    results-driven Front-End Developer with a passion for
+                    cutting-edge technologies and a proven track record in
+                    delivering high-quality software solutions. Proficient in
+                    React, Next.js, JavaScript, HTML, CSS, Redux, Git, and more.
+                    Dedicated to continuous learning and staying abreast of
+                    industry best practices. Possess excellent collaboration
+                    skills, thriving in both independent and cross-functional
+                    team environments.
                 </p>
             </div>
             <div className="py-10 flex flex-col ">
