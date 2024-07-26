@@ -22,6 +22,7 @@ import {
     redux,
     sass,
     snapgram,
+    styledComponents,
     summiz,
     tailwindcss,
     threads,
@@ -60,20 +61,21 @@ export const skills = [
         type: 'Frontend',
     },
     {
+        imageUrl: typescript,
+        name: 'TypeScript',
+        type: 'Frontend',
+    },
+
+    {
         imageUrl: mongodb,
         name: 'MongoDB',
         type: 'Database',
     },
-    {
-        imageUrl: motion,
-        name: 'Motion',
-        type: 'Animation',
-    },
-    {
-        imageUrl: mui,
-        name: 'Material-UI',
-        type: 'Frontend',
-    },
+    // {
+    //     imageUrl: motion,
+    //     name: 'Motion',
+    //     type: 'Animation',
+    // },
     {
         imageUrl: nextjs,
         name: 'Next.js',
@@ -105,15 +107,15 @@ export const skills = [
         type: 'Frontend',
     },
     {
-        imageUrl: typescript,
-        name: 'TypeScript',
+        imageUrl: styledComponents,
+        name: 'styled-components',
         type: 'Frontend',
     },
-    // {
-    //     imageUrl: styledComponents,
-    //     name: 'styled-components',
-    //     type: 'Frontend',
-    // },
+    {
+        imageUrl: mui,
+        name: 'Material-UI',
+        type: 'Frontend',
+    },
 ];
 
 export const experiences = [
